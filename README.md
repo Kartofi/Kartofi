@@ -15,4 +15,5 @@
 
  
 ## Discord RPC
-[!Discord Presence](https://github.com/Kartofi/Kartofi/blob/main/README.md(https://github.com/Kartofi/Kartofi/blob/main/README.md)
+[![Discord Presence](https://dutchman.gq/presensehtml/537954743998349315)](https://discord.com/users/537954743998349315)
+  
