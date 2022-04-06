@@ -15,4 +15,4 @@
 
  
 ## Discord RPC
-<img src="https://dutchman.gq/presense/537954743998349315" alt=math.random()>
+[!Discord Presence](https://github.com/Kartofi/Kartofi/blob/main/README.md)
