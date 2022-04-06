@@ -15,4 +15,4 @@
 
  
 ## Discord RPC
-[!Discord Presence](https://github.com/Kartofi/Kartofi/blob/main/README.md)
+[!Discord Presence](https://github.com/Kartofi/Kartofi/blob/main/README.md(https://github.com/Kartofi/Kartofi/blob/main/README.md)
