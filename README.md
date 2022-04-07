@@ -15,5 +15,5 @@
 
  
 ## Discord RPC
-[![Discord Presence](http://spotify-clone.rf.gd/a.html)](https://discord.com/users/537954743998349315?)
+[![Discord Presence](https://dutchman.gq/presense/537954743998349315)](https://discord.com/users/537954743998349315?)
   
