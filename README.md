@@ -14,7 +14,7 @@
 </a>
 
  
-## Discord RPC
-[![Discord Presence](https://dutchman.gq/presense/537954743998349315)](https://discord.com/users/537954743998349315?)
-
-  
+## Projects
+kartof -npm package
+https://dutchman.gq/presense/537954743998349315 - image of rich presense
+https://dutchman.gq/v1/537954743998349315 - api rich presence
