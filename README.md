@@ -2,6 +2,7 @@
 
 ## 📖 Contacts
 - ![Discord](https://i.imgur.com/002xgns.png) __Discord__ - kartof#6330.
+- ![Discord RPC](https://dutchman.gq/presense/537954743998349315)
 
 ## ⚡ Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,4 +20,4 @@ kartof -npm package
 https://dutchman.gq/presense/537954743998349315 - image of rich presense
 https://dutchman.gq/v1/537954743998349315 - api rich presence
 
-  <img src="https://dutchman.gq/presense/537954743998349315">
+ 
