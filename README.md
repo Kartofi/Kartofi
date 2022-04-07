@@ -2,7 +2,7 @@
 
 ## 📖 Contacts
 - ![Discord](https://i.imgur.com/002xgns.png) __Discord__ - kartof#6330.
-- ![Discord RPC](https://dutchman.gq/presense/537954743998349315)
+![Discord RPC](https://dutchman.gq/presense/537954743998349315)
 
 ## ⚡ Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
