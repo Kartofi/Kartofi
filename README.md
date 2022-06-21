@@ -13,7 +13,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kartofi&layout=compact&theme=radical" />
 </a>
- 
+ <img src="https://svg.kartof.repl.co/">
 ## Discord RPC
 ![Discord RPC](https://dutchman.gq/presence/537954743998349315)
  
