@@ -15,7 +15,8 @@
 </a>
 
 ## Discord RPC
-![Discord RPC](https://dutchman.ga/user/537954743998349315?ra=0)
+![Discord RPC](https://dutchman.ga/user/537954743998349315)
+  ![Rpc](https://lanyard.cnrad.dev/api/537954743998349315)
    
  
 
