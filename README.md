@@ -15,6 +15,6 @@
 </a>
 
 ## Discord RPC
-![Discord RPC](https://dutchman.ga/user/951871354733486130)
+![Discord RPC](https://dutchman.ga/user/842709738197221376)
  
 
