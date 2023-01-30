@@ -16,6 +16,3 @@
 
 ## Discord RPC
 ![Discord RPC](https://dutchman.ga/user/537954743998349315?random)
-
-
-![GRAPH](https://place.kartof.repl.co)
