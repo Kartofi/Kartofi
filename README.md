@@ -1,7 +1,7 @@
 ## 🌌 Hi there 👋
 
 ## 📖 Contacts
-- ![Discord](https://i.imgur.com/002xgns.png) __Discord__ - kartof#6670.
+- ![Discord](https://i.imgur.com/002xgns.png) __Discord__ - kartof.
 
 
 ## ⚡ Github Stats
