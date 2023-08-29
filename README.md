@@ -15,4 +15,4 @@
 </a>
 
 ## Discord RPC
-![Discord RPC](https://dutchman.ga/user/537954743998349315?random)
+![Discord RPC](http://kartof.tk/user/537954743998349315?random)
