@@ -14,5 +14,3 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kartofi&layout=compact&theme=radical" />
 </a>
 
-## Discord RPC
-![Discord RPC](http://dutchman.kartof.tk/user/537954743998349315?random)
