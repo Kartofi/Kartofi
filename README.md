@@ -14,5 +14,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kartofi&layout=compact&theme=radical" />
 </a>
 
+## Weakly coding time
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
