@@ -16,4 +16,10 @@
 
 ## Weakly coding time
 <!--START_SECTION:waka-->
+
+```txt
+TOML   10 mins         █████████████████████░░░░   84.22 %
+YAML   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+```
+
 <!--END_SECTION:waka-->
