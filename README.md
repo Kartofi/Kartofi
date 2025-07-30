@@ -15,4 +15,4 @@
 </a>
 
 ## ⏰ Weakly coding time
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kartofi&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev%2bStats%2b%2528All%2bTime%2529&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kartofi&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Timey&layout=compact">
