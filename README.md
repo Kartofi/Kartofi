@@ -14,12 +14,5 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kartofi&layout=compact&theme=radical" />
 </a>
 
-## Weakly coding time
-<!--START_SECTION:waka-->
-
-```txt
-TOML   10 mins         █████████████████████░░░░   84.22 %
-YAML   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-```
-
-<!--END_SECTION:waka-->
+## ⏰ Weakly coding time
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kartofi&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev%2bStats%2b%2528All%2bTime%2529&layout=compact">
