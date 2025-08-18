@@ -1,7 +1,6 @@
 ## 🌌 Hi there 👋
 
 ## 📖 Contacts
-- ![Discord](https://i.imgur.com/002xgns.png) __Discord__ - kartof.
 [![Discord Presence](https://lanyard.cnrad.dev/api/537954743998349315)](https://discord.com/users/537954743998349315)
 
 ## ⚡ Github Stats
